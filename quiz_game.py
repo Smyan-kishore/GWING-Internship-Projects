@@ -28,3 +28,4 @@ if answer.lower() == "power supply":
     print('Correct!')
 else:
     print("Incorrect!")
+print("Thanks for playing!")
